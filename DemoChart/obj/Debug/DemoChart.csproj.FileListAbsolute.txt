@@ -1,0 +1,91 @@
+D:\Winforms app\BT_API_NLHDH\DemoChart\DemoChart\bin\Debug\DemoChart.exe.config
+D:\Winforms app\BT_API_NLHDH\DemoChart\DemoChart\bin\Debug\DemoChart.exe
+D:\Winforms app\BT_API_NLHDH\DemoChart\DemoChart\bin\Debug\DemoChart.pdb
+D:\Winforms app\BT_API_NLHDH\DemoChart\DemoChart\obj\Debug\DemoChart.csproj.AssemblyReference.cache
+D:\Winforms app\BT_API_NLHDH\DemoChart\DemoChart\obj\Debug\DemoChart.Properties.Resources.resources
+D:\Winforms app\BT_API_NLHDH\DemoChart\DemoChart\obj\Debug\DemoChart.csproj.GenerateResource.cache
+D:\Winforms app\BT_API_NLHDH\DemoChart\DemoChart\obj\Debug\DemoChart.csproj.CoreCompileInputs.cache
+D:\Winforms app\BT_API_NLHDH\DemoChart\DemoChart\obj\Debug\DemoChart.exe
+D:\Winforms app\BT_API_NLHDH\DemoChart\DemoChart\obj\Debug\DemoChart.pdb
+D:\Winforms app\BT_API_NLHDH\DemoChart\DemoChart\obj\Debug\DemoChart.ArriveMessage.resources
+D:\Winforms app\BT_API_NLHDH\DemoChart\DemoChart\obj\Debug\DemoChart.SendMessage.resources
+D:\Winforms app\BT_API_NLHDH\DemoChart\DemoChart\obj\Debug\DemoChart.Algorithm.resources
+D:\Winforms app\BT_API_NLHDH\DemoChart\DemoChart\obj\Debug\DemoChart.ItemProcess.resources
+D:\Winforms app\BT_API_NLHDH\DemoChart\DemoChart\obj\Debug\DemoChart.ItemProcess2.resources
+D:\Winforms app\BT_API_NLHDH\DemoChart\DemoChart\obj\Debug\DemoChart.ChatThread.resources
+D:\HK5\NGUYEN LY HE DIEU HANH\NLHDH_PART2\DemoChart\obj\Debug\DemoChart.csproj.AssemblyReference.cache
+D:\HK5\NGUYEN LY HE DIEU HANH\NLHDH_PART2\DemoChart\obj\Debug\DemoChart.Algorithm.resources
+D:\HK5\NGUYEN LY HE DIEU HANH\NLHDH_PART2\DemoChart\obj\Debug\DemoChart.ArriveMessage.resources
+D:\HK5\NGUYEN LY HE DIEU HANH\NLHDH_PART2\DemoChart\obj\Debug\DemoChart.ChatThread.resources
+D:\HK5\NGUYEN LY HE DIEU HANH\NLHDH_PART2\DemoChart\obj\Debug\DemoChart.ItemProcess.resources
+D:\HK5\NGUYEN LY HE DIEU HANH\NLHDH_PART2\DemoChart\obj\Debug\DemoChart.ItemProcess2.resources
+D:\HK5\NGUYEN LY HE DIEU HANH\NLHDH_PART2\DemoChart\obj\Debug\DemoChart.Properties.Resources.resources
+D:\HK5\NGUYEN LY HE DIEU HANH\NLHDH_PART2\DemoChart\obj\Debug\DemoChart.SendMessage.resources
+D:\HK5\NGUYEN LY HE DIEU HANH\NLHDH_PART2\DemoChart\obj\Debug\DemoChart.csproj.GenerateResource.cache
+D:\HK5\NGUYEN LY HE DIEU HANH\NLHDH_PART2\DemoChart\obj\Debug\DemoChart.csproj.CoreCompileInputs.cache
+D:\HK5\NGUYEN LY HE DIEU HANH\NLHDH_PART2\DemoChart\obj\Debug\DemoChart.exe
+D:\HK5\NGUYEN LY HE DIEU HANH\NLHDH_PART2\DemoChart\obj\Debug\DemoChart.pdb
+D:\HK5\NGUYEN LY HE DIEU HANH\NLHDH_PART2\DemoChart\obj\Debug\NLHDH_API.FormMain.resources
+D:\HK5\NGUYEN LY HE DIEU HANH\NLHDH_PART2\DemoChart\obj\Debug\PROCESS_P2.ProcessInfoControl.resources
+D:\HK5\NGUYEN LY HE DIEU HANH\NLHDH_PART2\DemoChart\bin\Debug\DemoChart.exe.config
+D:\HK5\NGUYEN LY HE DIEU HANH\NLHDH_PART2\DemoChart\bin\Debug\DemoChart.exe
+D:\HK5\NGUYEN LY HE DIEU HANH\NLHDH_PART2\DemoChart\bin\Debug\DemoChart.pdb
+C:\Users\DELL\Downloads\NLHDH_PART2 (1)\DemoChart\bin\Debug\DemoChart.exe.config
+C:\Users\DELL\Downloads\NLHDH_PART2 (1)\DemoChart\bin\Debug\DemoChart.exe
+C:\Users\DELL\Downloads\NLHDH_PART2 (1)\DemoChart\bin\Debug\DemoChart.pdb
+C:\Users\DELL\Downloads\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.Algorithm.resources
+C:\Users\DELL\Downloads\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.ArriveMessage.resources
+C:\Users\DELL\Downloads\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.ChatThread.resources
+C:\Users\DELL\Downloads\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.ContainerGantChart.resources
+C:\Users\DELL\Downloads\NLHDH_PART2 (1)\DemoChart\obj\Debug\NLHDH_API.FormMain.resources
+C:\Users\DELL\Downloads\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.ItemGantchart.resources
+C:\Users\DELL\Downloads\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.ItemProcess.resources
+C:\Users\DELL\Downloads\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.ItemProcess2.resources
+C:\Users\DELL\Downloads\NLHDH_PART2 (1)\DemoChart\obj\Debug\PROCESS_P2.ProcessInfoControl.resources
+C:\Users\DELL\Downloads\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.Properties.Resources.resources
+C:\Users\DELL\Downloads\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.SendMessage.resources
+C:\Users\DELL\Downloads\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.exe
+C:\Users\DELL\Downloads\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.pdb
+D:\HK5\CHUYEN DE KY THUAT PHAN MEM\NLHDH_PART2 (1)\DemoChart\bin\Debug\DemoChart.exe.config
+D:\HK5\CHUYEN DE KY THUAT PHAN MEM\NLHDH_PART2 (1)\DemoChart\bin\Debug\DemoChart.exe
+D:\HK5\CHUYEN DE KY THUAT PHAN MEM\NLHDH_PART2 (1)\DemoChart\bin\Debug\DemoChart.pdb
+D:\HK5\CHUYEN DE KY THUAT PHAN MEM\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.csproj.AssemblyReference.cache
+D:\HK5\CHUYEN DE KY THUAT PHAN MEM\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.Algorithm.resources
+D:\HK5\CHUYEN DE KY THUAT PHAN MEM\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.ArriveMessage.resources
+D:\HK5\CHUYEN DE KY THUAT PHAN MEM\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.ChatThread.resources
+D:\HK5\CHUYEN DE KY THUAT PHAN MEM\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.ContainerGantChart.resources
+D:\HK5\CHUYEN DE KY THUAT PHAN MEM\NLHDH_PART2 (1)\DemoChart\obj\Debug\NLHDH_API.FormMain.resources
+D:\HK5\CHUYEN DE KY THUAT PHAN MEM\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.ItemGantchart.resources
+D:\HK5\CHUYEN DE KY THUAT PHAN MEM\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.ItemProcess.resources
+D:\HK5\CHUYEN DE KY THUAT PHAN MEM\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.ItemProcess2.resources
+D:\HK5\CHUYEN DE KY THUAT PHAN MEM\NLHDH_PART2 (1)\DemoChart\obj\Debug\PROCESS_P2.ProcessInfoControl.resources
+D:\HK5\CHUYEN DE KY THUAT PHAN MEM\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.Properties.Resources.resources
+D:\HK5\CHUYEN DE KY THUAT PHAN MEM\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.SendMessage.resources
+D:\HK5\CHUYEN DE KY THUAT PHAN MEM\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.csproj.GenerateResource.cache
+D:\HK5\CHUYEN DE KY THUAT PHAN MEM\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.csproj.CoreCompileInputs.cache
+D:\HK5\CHUYEN DE KY THUAT PHAN MEM\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.exe
+D:\HK5\CHUYEN DE KY THUAT PHAN MEM\NLHDH_PART2 (1)\DemoChart\obj\Debug\DemoChart.pdb
+D:\HK5\NGUYEN LY HE DIEU HANH\NLHDH_PART2\DemoChart\obj\Debug\DemoChart.ContainerGantChart.resources
+D:\HK5\NGUYEN LY HE DIEU HANH\NLHDH_PART2\DemoChart\obj\Debug\DemoChart.ItemGantchart.resources
+C:\Users\DELL\Downloads\NLHDH_PART2 (2)\DemoChart\bin\Debug\DemoChart.exe.config
+C:\Users\DELL\Downloads\NLHDH_PART2 (2)\DemoChart\bin\Debug\DemoChart.exe
+C:\Users\DELL\Downloads\NLHDH_PART2 (2)\DemoChart\bin\Debug\DemoChart.pdb
+C:\Users\DELL\Downloads\NLHDH_PART2 (2)\DemoChart\obj\Debug\DemoChart.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\NLHDH_PART2 (2)\DemoChart\obj\Debug\DemoChart.Algorithm.resources
+C:\Users\DELL\Downloads\NLHDH_PART2 (2)\DemoChart\obj\Debug\DemoChart.ArriveMessage.resources
+C:\Users\DELL\Downloads\NLHDH_PART2 (2)\DemoChart\obj\Debug\DemoChart.ChatThread.resources
+C:\Users\DELL\Downloads\NLHDH_PART2 (2)\DemoChart\obj\Debug\DemoChart.ContainerGantChart.resources
+C:\Users\DELL\Downloads\NLHDH_PART2 (2)\DemoChart\obj\Debug\NLHDH_API.FormMain.resources
+C:\Users\DELL\Downloads\NLHDH_PART2 (2)\DemoChart\obj\Debug\DemoChart.ItemGantchart.resources
+C:\Users\DELL\Downloads\NLHDH_PART2 (2)\DemoChart\obj\Debug\DemoChart.ItemProcess.resources
+C:\Users\DELL\Downloads\NLHDH_PART2 (2)\DemoChart\obj\Debug\DemoChart.ItemProcess2.resources
+C:\Users\DELL\Downloads\NLHDH_PART2 (2)\DemoChart\obj\Debug\PROCESS_P2.ProcessInfoControl.resources
+C:\Users\DELL\Downloads\NLHDH_PART2 (2)\DemoChart\obj\Debug\DemoChart.Properties.Resources.resources
+C:\Users\DELL\Downloads\NLHDH_PART2 (2)\DemoChart\obj\Debug\DemoChart.SendMessage.resources
+C:\Users\DELL\Downloads\NLHDH_PART2 (2)\DemoChart\obj\Debug\DemoChart.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\NLHDH_PART2 (2)\DemoChart\obj\Debug\DemoChart.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\NLHDH_PART2 (2)\DemoChart\obj\Debug\DemoChart.exe
+C:\Users\DELL\Downloads\NLHDH_PART2 (2)\DemoChart\obj\Debug\DemoChart.pdb
